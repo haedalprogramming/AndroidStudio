@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void CurrentCall(){
 
-        String url = "http://api.openweathermap.org/data/2.5/weather?q=Daegu&appid=5f5a365efefbaaa2601ce3c9aa9622bb";
+        String url = "http://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}";
 
 
         StringRequest request = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
