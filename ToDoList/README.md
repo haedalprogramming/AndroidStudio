@@ -1,2 +1,12 @@
-# AndroidToDoList
-안드로이드 스튜디오로 To Do List 만들기
+# Android ToDoList App
+
+## UI/UX
+
+![ToDoList](https://github.com/Climier-code/AndroidStudio/blob/master/img/ToDoList.gif)
+
+## 사용된 개념
+- Fragment
+- RecyclerView
+- Adapter
+- Database(SQLite)
+- ...
