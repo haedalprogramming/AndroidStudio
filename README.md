@@ -1,3 +1,7 @@
+![GitHub top language](https://img.shields.io/github/languages/top/haedalprogramming/AndroidStudio?style=plastic)  ![GitHub last commit](https://img.shields.io/github/last-commit/haedalprogramming/AndroidStudio)
+
+
+
 # Android Studio Projects
 
 > **안드로이드 헤엄치기**의 프로젝트들을 저장하는 곳입니다.
