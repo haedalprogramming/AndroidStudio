@@ -18,7 +18,7 @@
 
 - [ToDoList App](/ToDoList)
 
-- [Massenger App](/ChattingApp)
+- [Messenger App](/ChattingApp)
 
 - [WeatherWidget App](/WeatherWidget)
 
