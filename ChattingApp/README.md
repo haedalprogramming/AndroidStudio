@@ -1,4 +1,4 @@
-# Android Massenger App
+# Android Messenger App
 
 ## UI/UX
 
